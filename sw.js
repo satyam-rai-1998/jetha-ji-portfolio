@@ -1,9 +1,9 @@
 const CACHE = 'jetharam-portfolio-v1';
 const ASSETS = [
-  '/portfolio/',
-  '/portfolio/index.html',
-  '/portfolio/pic.jpeg',
-  '/portfolio/manifest.json'
+  '/',
+  '/index.html',
+  '/pic.jpeg',
+  '/manifest.json'
 ];
 
 self.addEventListener('install', e => {
@@ -33,6 +33,6 @@ self.addEventListener('fetch', e => {
         caches.open(CACHE).then(c => c.put(e.request, clone));
         return response;
       })
-      .catch(() => caches.match(e.request).then(cached => cached || caches.match('/portfolio/')))
+      .catch(() => caches.match(e.request).then(cached => cached || caches.match('/')))
   );
 });

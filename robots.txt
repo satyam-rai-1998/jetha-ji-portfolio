@@ -32,5 +32,5 @@ Allow: /
 User-agent: YouBot
 Allow: /
 
-Sitemap: https://jetharam-moond.github.io/portfolio/sitemap.xml
-LLMs: https://jetharam-moond.github.io/portfolio/llms.txt
+Sitemap: https://jetha-moond-portfolio.vercel.app/sitemap.xml
+LLMs: https://jetha-moond-portfolio.vercel.app/llms.txt

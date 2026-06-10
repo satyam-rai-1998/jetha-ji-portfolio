@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://jetharam-moond.github.io/portfolio/</loc>
+    <loc>https://jetha-moond-portfolio.vercel.app/</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://jetharam-moond.github.io/portfolio/pic.jpeg</image:loc>
+      <image:loc>https://jetha-moond-portfolio.vercel.app/pic.jpeg</image:loc>
       <image:title>Jetharam Moond — Sr. Magento &amp; WordPress Frontend Developer</image:title>
       <image:caption>Jetharam Moond, Sr. Magento &amp; WordPress Frontend & UI Developer based in Gurugram, India</image:caption>
     </image:image>
