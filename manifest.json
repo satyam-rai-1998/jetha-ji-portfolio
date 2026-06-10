@@ -1,0 +1,26 @@
+{
+  "name": "Jetharam Moond | Sr. Magento & WordPress Frontend Developer",
+  "short_name": "Jetharam Moond",
+  "description": "Portfolio of Jetharam Moond — Sr. Magento & WordPress Frontend Developer based in Gurugram, India.",
+  "start_url": "/portfolio/",
+  "scope": "/portfolio/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#f97316",
+  "orientation": "portrait-primary",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "pic.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "pic.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
